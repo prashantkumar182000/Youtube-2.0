@@ -9,7 +9,7 @@ This project was bootstrapped with Create React App.
 In the project directory, first go to src:
 
 user@user:~/React/Youtube_clone$
-### 'cd src'
+### `cd src`
 user@user:~/React/Youtube_clone/src$
 
 In the project directory, you can run:
