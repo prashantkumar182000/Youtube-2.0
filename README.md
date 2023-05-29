@@ -1,7 +1,7 @@
 # Youtube 2.0 built by Prashant Kumar.
 This project was bootstrapped with Create React App.
 
-![YouTube](https://i.ibb.co/23pHb7K/youtube-logo-dark.jp)
+![YouTube](https://i.ibb.co/23pHb7K/youtube-logo-dark.jpg)
 
 ### Assigned by Gro.care 
 
